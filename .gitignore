@@ -1,0 +1,4 @@
+# ignore files
+app/app
+.idea/
+app/tmp
